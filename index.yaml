@@ -3,12 +3,22 @@ entries:
   dmc-convert-input:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2022-08-31T18:39:17.080181479+03:00"
+    created: "2022-09-01T15:35:18.824179714+03:00"
     description: A Helm chart for Kubernetes
-    digest: 7c360bd5ea8ad6036e275285c85dca2340a9dc4cea8d96f0d3075480acea5a43
+    digest: 6da15004c61c74cb8a7d143e16fb155976390790f6a14c49cde4c922b95c4137
     name: dmc-convert-input
     type: application
     urls:
-    - https://github.com/antey1988/Helm.git/dmc-convert-input-0.1.0.tgz
+    - https://antey1988.github.io/Helm/dmc-convert-input-1.0.tgz
+    version: "1.0"
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-09-01T15:35:18.81702944+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 46d48ab8ea8bfe9559c7a4e0dc2c3648451978843d6119f71f6eebee045498e1
+    name: dmc-convert-input
+    type: application
+    urls:
+    - https://antey1988.github.io/Helm/dmc-convert-input-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-31T18:39:17.075912199+03:00"
+generated: "2022-09-01T15:35:18.811198034+03:00"
